@@ -1,0 +1,4 @@
+20/08/2016
+Sources of Tadarida-D
+Version 2.1.0
+For Linux 64 bits and Qt5
